@@ -12,7 +12,9 @@ Location with exact and partial naming matches.<br/>
 . Sleeps (minimum)<br/>
 . Beds (minimum)<br/>
 . Availability<br/>
-Don't change the database structure. Use the properties, locations and bookings tables provided for you.
+Full OO approach.<br/>
+Don't change the database structure.<br/>
+Use the properties, locations and bookings tables provided for you.
 
 Note
 ----
