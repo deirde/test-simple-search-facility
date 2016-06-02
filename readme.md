@@ -4,14 +4,14 @@ SPECIFICATIONS (simplified): Simple search facility with pagination with the dat
 
 Specs
 -----
-Produce a simple search facility with pagination with the data sets provided.
-The search is to do allow the matching of the following:
-Location with exact and partial naming matches.
-Near the Beach.
-. Accepts Pets.
-. Sleeps (minimum).
-. Beds (minimum).
-. Availability.
+Produce a simple search facility with pagination with the data sets provided.<br/>
+The search is to do allow the matching of the following:<br/>
+Location with exact and partial naming matches.<br/>
+. Near the Beach<br/>
+. Accepts Pets<br/>
+. Sleeps (minimum)<br/>
+. Beds (minimum)<br/>
+. Availability<br/>
 Don't change the database structure. Use the properties, locations and bookings tables provided for you.
 
 Note
