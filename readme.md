@@ -1,7 +1,5 @@
 # SIMPLE SEARCH FACILITY #
 
-SPECIFICATIONS (simplified): Simple search facility with pagination with the data sets provided. 
-
 Specs
 -----
 Produce a simple search facility with pagination with the data sets provided.<br/>
